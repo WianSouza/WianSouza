@@ -1,5 +1,5 @@
  ## Olá eu sou o Willian Souza
-- 🔭 Atualemente trabalho com logisca de estoque
+- 🔭 Atualemente estou aprimorando habilidades
 - 🌱 Estudando Front-end/back-end 
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronouns: ele/dele
